@@ -1,5 +1,7 @@
 # 🌳 PDF Decision Tree Explorer
 
+> **This is a demo. It contains no confidential data/IP.**
+
 A web-based application that transforms **PDF playbooks** into interactive **decision trees** using **LLM + Vision APIs**.  
 Users can upload a PDF or JSON, extract structured decision flows, and navigate them visually with expand/collapse controls.  
 
